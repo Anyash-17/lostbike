@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/lostbike/static/css/main.d54a74cf.css",
+    "main.css": "/lostbike/static/css/main.2efb6010.css",
     "main.js": "/lostbike/static/js/main.50334e2e.js",
     "static/media/loading_icon.gif": "/lostbike/static/media/loading_icon.4ace5f172a45b15a8274.gif",
     "static/media/bike_logo.png": "/lostbike/static/media/bike_logo.a9a93922634933115684.png",
     "static/media/default_bike.png": "/lostbike/static/media/default_bike.90268572e157625ea45c.png",
     "index.html": "/lostbike/index.html",
-    "main.d54a74cf.css.map": "/lostbike/static/css/main.d54a74cf.css.map",
+    "main.2efb6010.css.map": "/lostbike/static/css/main.2efb6010.css.map",
     "main.50334e2e.js.map": "/lostbike/static/js/main.50334e2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.d54a74cf.css",
+    "static/css/main.2efb6010.css",
     "static/js/main.50334e2e.js"
   ]
 }
