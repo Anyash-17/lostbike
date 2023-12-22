@@ -11,7 +11,7 @@
     #b4f0ec
   );
   width: 100%;
-  height: 12vh;
+  min-height: 12vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,6 +25,7 @@
   justify-content: space-between;
   align-items: center;
   height: fit-content;
+  flex-wrap: wrap;
 }
 
 .navbar_logo {
@@ -52,6 +53,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .navbar_search > label {
